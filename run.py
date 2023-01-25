@@ -1,6 +1,6 @@
 import threading
-from server import Server
-from client import Client
+from Server import Server
+from Client import Client
 
 if __name__ == '__main__':
     # create a server instance
